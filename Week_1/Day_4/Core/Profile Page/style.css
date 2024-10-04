@@ -55,7 +55,7 @@ ul{
     width: 500px;
     height: 500px;
     position: relative;
-    left: 200px;
+    left: 550px;
     top: 40px;
 }
 .line-1{
@@ -123,7 +123,7 @@ p{
 }
 .c-2{
     position: relative;
-    left: 200px;
+    left: 550px;
     bottom: 80px;
     width: 494px;
     height: 100px;
@@ -144,7 +144,7 @@ p{
 
 .c-3{
     position: relative;
-    left: 800px;
+    left: 1135px;
     bottom: 565px;
     width: 300px;
     height: auto;
@@ -178,7 +178,7 @@ p{
 }
 .c-4{
     position: relative;
-    left: 800px;
+    left: 1135px;
     bottom: 545px;
     width: 300px;
     height: auto;
