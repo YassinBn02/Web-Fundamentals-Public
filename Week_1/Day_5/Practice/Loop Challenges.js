@@ -39,4 +39,4 @@ for(var i=1;i<=12;i++){
     pre*=i;
     pred+=i+"*";
 }
-console.log(pred+"="+pre);
+console.log(pred+"="+pre);  
